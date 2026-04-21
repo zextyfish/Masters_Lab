@@ -3,5 +3,6 @@
 *.out
 *.toc
 *.mp4
+*.tex
 Docs/
 .vscode/
