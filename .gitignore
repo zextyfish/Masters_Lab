@@ -1,0 +1,7 @@
+*.aux
+*.log
+*.out
+*.toc
+*.mp4
+Docs/
+.vscode/
