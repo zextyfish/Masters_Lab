@@ -1,3 +1,2 @@
 ## Lab Notes
-### 01
-![[Optical Pumping/01.jpg]]
+![01](https://github.com/zextyfish/Masters_Lab/blob/main/Optical%20Pumping/01.jpg)
